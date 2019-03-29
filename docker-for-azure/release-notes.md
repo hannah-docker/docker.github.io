@@ -13,6 +13,7 @@ title: Docker for Azure Release Notes
 - Docker engine 17.06.2-ee-19 EE
 - UCP 2.2.16
 - DTR 2.3.10
+- `docker4x/cloudstor:18.06.1-ce-azure2` fixes https://github.com/docker/docker-core-backlog/issues/344
 
 ### 17.06 EE
 
